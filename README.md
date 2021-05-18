@@ -1,2 +1,2 @@
-# shmoppy
+# Shmoppy
 Shmeppy Clone
